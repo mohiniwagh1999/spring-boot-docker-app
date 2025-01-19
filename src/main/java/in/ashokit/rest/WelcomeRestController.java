@@ -21,7 +21,7 @@ public class WelcomeRestController {
 		String msg = "Welcome to Ashok IT - Software Training Institute (HYD) ..!!";
 		logger.info("***** welcomeMsg() execution end *****");
 		String s = "hello";
-		logger.info("******************************************************************");
+		logger.info("welcome to my home mohini");
 		return msg;
 	}
 	
